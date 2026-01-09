@@ -1,5 +1,5 @@
 # Created with YamlCreate.ps1 Dumplings Mod
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Alibaba.Qoder
 PackageVersion: 1.100.0
@@ -145,10 +145,10 @@ FileExtensions:
 - yml
 - zsh
 ProductCode: '{943D6004-554E-4B49-A1D5-52F999A1B3C9}_is1'
-ReleaseDate: 2025-10-24
+ReleaseDate: 2026-01-06
 Installers:
 - Architecture: x64
-  InstallerUrl: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.8/QoderUserSetup-x64.exe
-  InstallerSha256: 804D628D45F37BAB9482207E97EF083A8960F80B297F82390A934F091B71A602
+  InstallerUrl: https://qoder-ide.oss-accelerate.aliyuncs.com/release/0.2.28/QoderUserSetup-x64.exe
+  InstallerSha256: 1A2ACC91DEEE604CFFC5C4618F285A97A22E3A5640FC07866BE79BD21A099E4B
 ManifestType: installer
-ManifestVersion: 1.10.0
+ManifestVersion: 1.12.0

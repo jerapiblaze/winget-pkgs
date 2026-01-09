@@ -9,7 +9,11 @@ Author: Adobe Inc.
 PackageName: Adobe Creative Cloud
 PackageUrl: https://creativecloud.adobe.com/
 License: Proprietary
-Copyright: © 2019-2024 Adobe. All rights reserved.
+Copyright: © 2019-2025 Adobe. All rights reserved.
 ShortDescription: Get all 20+ creative apps including Photoshop, Illustrator, and Premiere Pro.
+Tags:
+- adobecreativeclouddesktop
+- adobe-creative-cloud-desktop
+- xpdlpkwg9sw2wd
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0
